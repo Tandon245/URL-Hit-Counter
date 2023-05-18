@@ -25,7 +25,7 @@ The application will start running on http://localhost:8080.
 # API Endpoint
 The URL Hit Counter application exposes the following API endpoint:
 
-GET /api/v1/Url-Hit-Count/username/{username}/count: This endpoint retrieves the hit count for a specific username. Replace {username} in the URL with the desired username. For example, to get the hit count for user "Abhishek," make a GET request to http://localhost:8080/api/v1/Url-Hit-Count/username/Abhishek/count.
+GET /api/v1/Url-Hit-Count/username/{username}/count: This endpoint retrieves the hit count for a specific username. Replace {username} in the URL with the desired username. For example, to get the hit count for user "Abhishek," make a GET request to http://localhost:8080/api/v1/Url-Hit-Count/username/{your_user_name}/count.
 # Usage
 To track the hit count for a specific URL, follow these steps:
 
